@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mail Template</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="li_yin_mail">li.yin.cristiano@rutgers.edu</string>
+    <string name="cong_wang_mail">cw700@scarletmail.rutgers.edu</string>
+
+
+    <string name="load">Load a template</string>
+    <string name="create">Create a template</string>
+    <string name="save">Save a template</string>
+    <string name="delete">Delete a template</string>
+    <string name="Send">Send</string>
+</resources>
